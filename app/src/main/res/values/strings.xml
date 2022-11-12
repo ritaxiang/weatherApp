@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WEATHER APP</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="todo">TODO</string>
+    <string name="city_name">City Name</string>
+    <string name="Enter_City_Name">Enter City Name</string>
+    <string name="N23">23</string>
+    <string name="Condition">Condition</string>
+    <string name="Todays_Weather_Forecast">Today\'s Weather Forecast</string>
+</resources>
